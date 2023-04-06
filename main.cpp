@@ -22,8 +22,9 @@ int main(){
 			
 		else
 			p = new LinkedList<int>();
+    
+    cout<<"thisisGIT\n";
 
-    cout<<"thisisgGIT\n";
 		do{
 			prnMenu();
 			cin>>selectNumber;
